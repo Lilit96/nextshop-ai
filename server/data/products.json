@@ -1,0 +1,6 @@
+[
+  { "id": 1, "title": "Беспроводные наушники", "price": 49, "category": "electronics", "description": "Bluetooth 5.3, 30 часов работы", "image": "https://placehold.co/400x300?text=Headphones" },
+  { "id": 2, "title": "Механическая клавиатура", "price": 79, "category": "electronics", "description": "Подсветка RGB, красные свитчи", "image": "https://placehold.co/400x300?text=Keyboard" },
+  { "id": 3, "title": "Рюкзак для ноутбука", "price": 39, "category": "accessories", "description": "Водоотталкивающий, до 15.6 дюймов", "image": "https://placehold.co/400x300?text=Backpack" },
+  { "id": 4, "title": "Игровая мышь", "price": 29, "category": "electronics", "description": "6 кнопок, 12000 DPI", "image": "https://placehold.co/400x300?text=Mouse" }
+]
